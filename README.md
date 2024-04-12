@@ -5,14 +5,6 @@
 	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
 </p>
 
-<p align="center">
- <a href="#💻-sobre-o-projeto">Sobre</a> •
- <a href="#🎨-layout">Layout</a> • 
- <a href="#🛠-tecnologias">Tecnologias</a> • 
- <a href="#🧙‍♂️-autor">Autor</a> 
-</p>
-
-
 ## 💻 Sobre o projeto
 
 📄 Esse é um projeto de uma landing page com foco no aprendizado das tecnologias HTML e CSS.
