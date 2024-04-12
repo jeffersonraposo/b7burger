@@ -27,7 +27,7 @@ Abaixo segue layout do projeto.
 ### Web
 
 <p align="center" style="display: flex; flex-direction: column; justify-content: center; align-items:center; gap: 30px;">
-  <img alt="B7 Burger" title="B7 Burger" src="assets/layout/web.png" width="800px">
+  <img alt="B7 Burger" title="B7 Burger" src="assets/layout/web.png" width="800px"></br></br>
   <img alt="B7 Burger" title="B7 Burger" src="assets/layout/layoutweb.gif" width="800px">
 
 </p>
